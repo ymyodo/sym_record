@@ -1,4 +1,4 @@
-package com.sym.guava.eventbus;
+package com.sym.guava;
 
 import com.google.common.eventbus.EventBus;
 import com.sym.guava.eventbus.event.CommodityEvent;
